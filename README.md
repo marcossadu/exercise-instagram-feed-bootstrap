@@ -9,6 +9,8 @@ You can fork and clone this repository and implement your solution in Visual Stu
 
 1. Primero implementad la vista en la que se ven los feeds en 1 sola columna , olvidaos de esos botones que permiten cambiar entre vistas
 2. Luego, podéis implementar la vista en 3 columnas. 
+3. Hay componentes que se parecen mucho. Tipo: navbar con logo, navbar sin logo, navbar con menú hamburguesa, etc. 
+4. Respetad la estructra de Bootstrap. Si un componente tiene una estrctura detemrinada: divs, h4, p, etc. Se suele necesitar toda ella para que funcione.
 
 
 ## 🌱  How to start this project
